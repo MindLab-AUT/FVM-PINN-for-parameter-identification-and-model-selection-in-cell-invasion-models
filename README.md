@@ -7,7 +7,7 @@ identification and model selection in cell invasion models**
 
 Accurate modeling of a phenomenon is essential for enhancing predictive capabilities
 and understanding its underlying mechanisms. The precision of model predictions is
-heavily influenced by the parameters of the model.} Consequently, in addition to
+heavily influenced by the parameters of the model. Consequently, in addition to
 addressing problems framed as Partial Differential Equations (PDEs) or Ordinary
 Differential Equations (ODEs), parameter estimation is crucial for improving solution
 accuracy and selecting the optimal model among alternatives. This study focuses on
