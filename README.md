@@ -16,3 +16,4 @@ Petrovsky, Nikolai Piskunov) model using Physics-Informed Neural Networks (PINNs
 The Fisher-KPP reaction-diffusion model, which explores cell invasion, has four
 variants depending on whether the parameters are free or fixed. We employ the finite
 volume method (FVM) to simulate the model and obtain numerical solutions.
+
