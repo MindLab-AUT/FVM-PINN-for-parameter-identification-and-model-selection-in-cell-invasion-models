@@ -17,3 +17,18 @@ The Fisher-KPP reaction-diffusion model, which explores cell invasion, has four
 variants depending on whether the parameters are free or fixed. We employ the finite
 volume method (FVM) to simulate the model and obtain numerical solutions.
 
+## 📜 Description
+
+If you use this code, please cite our paper (citation details below).  
+
+@article{MayhaPINN,
+  author = {Mahya Pashapour, Mostafa Abbaszadeh, Mehdi Dehghan},
+  title = {Combining finite volume method and physics-informed neural networks for parameter
+identification and model selection in cell invasion models},
+  journal = {Combining finite volume method and physics-informed neural networks for parameter
+identification and model selection in cell invasion models},
+  year = {2025},
+  volume = {XX},
+  pages = {XX-XX},
+  doi = {DOI_LINK}
+}
